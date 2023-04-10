@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "n3-basic-crud-operations", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "n4-db-connection-conf", "n4-db-connection-conf\n4-db-connection-conf.csproj", "{E0AD7380-C730-4707-9602-866DDB2C2ACF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "n5-log-operations", "n5-log-operations\n5-log-operations.csproj", "{0CE5BCFD-A6C6-4130-BF43-1AE980A5059E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{E0AD7380-C730-4707-9602-866DDB2C2ACF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E0AD7380-C730-4707-9602-866DDB2C2ACF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E0AD7380-C730-4707-9602-866DDB2C2ACF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CE5BCFD-A6C6-4130-BF43-1AE980A5059E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CE5BCFD-A6C6-4130-BF43-1AE980A5059E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CE5BCFD-A6C6-4130-BF43-1AE980A5059E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CE5BCFD-A6C6-4130-BF43-1AE980A5059E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
